@@ -68,7 +68,7 @@ section {
 
 .navbar a {
     font-size: 1.7rem;
-    color: var(--text-color);
+    color: var(--main-color);
     margin-left: 4rem;
     
 }
@@ -93,7 +93,7 @@ section {
 
 
 .home-img img {
-    width: 37vw;
+    width: 25vw;
     animation: floatImage 4s ease-in-out infinite;
 }
 
